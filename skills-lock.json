@@ -85,6 +85,18 @@
       "skillPath": "skills/caveman-stats/SKILL.md",
       "computedHash": "d47db80af9353f411b5840fa207ac10c883f04576cd280b135e3a44a0ff86285"
     },
+    "citation-management": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/citation-management/SKILL.md",
+      "computedHash": "3b3bb7b57f41f5e6fdab85f7f3081df0cceedf37b377e3125cd87c14552e8650"
+    },
+    "experimental-design": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/experimental-design/SKILL.md",
+      "computedHash": "6d55e9719ccbd50d642e1d49f6fe1683e9edaa31b88d1078a8ce36da1dfe71f9"
+    },
     "find-skills": {
       "source": "vercel-labs/skills",
       "sourceType": "github",
@@ -102,6 +114,12 @@
       "sourceType": "github",
       "skillPath": "skills/lean-build/SKILL.md",
       "computedHash": "aee8fbb86c5e1e5066089293423f71dd6a87ab37486c360cd4488ef2fe96c7a7"
+    },
+    "matplotlib": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/matplotlib/SKILL.md",
+      "computedHash": "d158b5acb8d907abbeea88f2b32914d88a07ac212b5396a8ba50f5082e971c97"
     },
     "megacave": {
       "source": "JuliusBrussee/caveman",
@@ -121,6 +139,36 @@
       "skillPath": "skills/safe-refactor/SKILL.md",
       "computedHash": "709db1dfde3fe3baa362ecdb3f1f3c0be27587358242737dfa4ca82a23744269"
     },
+    "scientific-schematics": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/scientific-schematics/SKILL.md",
+      "computedHash": "cc3089c544cb3959c4520b3038c0d0fd00862caefd8b294c9209bee4b7c8a7b2"
+    },
+    "scientific-visualization": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/scientific-visualization/SKILL.md",
+      "computedHash": "a9ea119baafe77128193200a93acf35f56ce8c52038253a4bcef4f0da41e7e70"
+    },
+    "scientific-writing": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/scientific-writing/SKILL.md",
+      "computedHash": "2b98539c10a4a176bf98659a8437c0b6d195e8c18be79f19bbe4cd8395efd064"
+    },
+    "sciwrite": {
+      "source": "labarba/sciwrite",
+      "sourceType": "github",
+      "skillPath": "skills/sciwrite/SKILL.md",
+      "computedHash": "b6eff308afe2f0e1c5f953a4d73f474da7ebb6e133729dee6d28b3172cc4bc81"
+    },
+    "statistical-analysis": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/statistical-analysis/SKILL.md",
+      "computedHash": "7428d347cfe2f52324cba1aaf30031fc480d47a65dfb932879ec25ca5c7eac7f"
+    },
     "surgical-patch": {
       "source": "JuliusBrussee/caveman",
       "sourceType": "github",
@@ -132,6 +180,12 @@
       "sourceType": "github",
       "skillPath": "skills/ultracave/SKILL.md",
       "computedHash": "b9814ef35fbc9f4359f682c7f2e4944b30428f8c8d79463efa070f99fffaa453"
+    },
+    "uncertainty-and-units": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/uncertainty-and-units/SKILL.md",
+      "computedHash": "bc34d1208291bd1dd6f107f95a1764886e321eb565e30148c10528b39ffb826f"
     },
     "verify-and-stop": {
       "source": "JuliusBrussee/caveman",
